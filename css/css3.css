@@ -1,0 +1,18 @@
+/* line 3, ../sass/css3.scss */
+#box {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5;
+  display: block;
+}
+
+/* line 8, ../sass/css3.scss */
+#inline-block {
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  *zoom: 1;
+  *display: inline;
+}

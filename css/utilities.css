@@ -1,0 +1,21 @@
+/* line 3, ../sass/utilities.scss */
+.clearfix {
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 2, ../../../../../Ruby22/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+table th {
+  text-align: center;
+  font-weight: bold;
+}
+/* line 5, ../../../../../Ruby22/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+table td,
+table th {
+  padding: 2px;
+}
+/* line 8, ../../../../../Ruby22/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+table td.numeric,
+table th.numeric {
+  text-align: right;
+}

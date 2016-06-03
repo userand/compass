@@ -1,0 +1,10 @@
+@import "compass/utilities/";
+@import "compass";
+.clearfix {
+    @include clearfix;
+}
+
+table {
+    @include table-scaffolding;
+}
+

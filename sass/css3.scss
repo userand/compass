@@ -1,0 +1,11 @@
+@import "compass/css3";
+
+#box{
+    @include border-radius(5px);
+    @include opacity(0.5);
+    display: block;
+}
+#inline-block {
+    @include inline-block;
+}
+
